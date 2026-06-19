@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Joshua Luke Raterta 👋
 
-<!--
-**Lukee0927/Lukee0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Information Technology student at the **Polytechnic University of the Philippines (PUP)** with a passion for technology, software development, and problem-solving. I am continuously improving my technical skills through academic projects, personal projects, and hands-on learning.
 
-Here are some ideas to get you started:
+I am interested in exploring different areas of IT, developing practical solutions, and gaining industry experience where I can contribute and grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+**Programming Languages**
+- Java
+- JavaScript
+- HTML & CSS
+
+**Tools & Platforms**
+- Git & GitHub
+- Figma
+- Visual Studio Code
+
+**Areas of Interest**
+- Software Development
+- Web Development
+- UI/UX Design
+- Game Development
+
+## Currently Learning
+- Improving programming fundamentals
+- Building real-world applications
+- Exploring software development practices
+- Expanding my knowledge in IT technologies
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/joshua-raterta
+- Email: rjoshualuke27@gmail.com
+
+---
+
+*"Always learning, always building."*
